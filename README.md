@@ -1,6 +1,6 @@
-# SpringBoot-Demo
+# SpringBoot
 
-SpringBoot-Demo
+SpringBoot
 
 This project uses SpringBoot to build a simple Hello_OrangeCH3 program and deploys it to DockerHub.
 
